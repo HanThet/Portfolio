@@ -1,8 +1,6 @@
 # Portfolio
-Data Science portfolio featuring my academic projects in machine learning, data analytics, Power BI, SQL, Java, and software testing.
-# Data Science Portfolio
 
-Hi! I'm Sean, a Data Science student at Stamford International University.
+Hi! I'm Han Thet Htoo Aung, a Data Science student at Stamford International University.
 
 I'm interested in data analytics, machine learning, business intelligence, and using data to solve real-world problems.
 
